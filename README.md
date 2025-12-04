@@ -33,8 +33,8 @@ This project is designed as a learning-focused yet production-ready template for
 
 ## 🧰 Tech Stack
 
-- **C# 12**
-- **ASP.NET Core 8**
+- **C# 14**
+- **ASP.NET Core 10**
 - **Entity Framework Core**
 - **SQL Server**
 - **AutoMapper**
