@@ -48,51 +48,20 @@ This project is designed as a learning-focused yet production-ready template for
 ```bash
 git clone https://github.com/Abd-Alrahman-Sobhy/E-Commerce.git
 cd E-Commerce
-2️⃣ Update Connection String
+```
+
+### 2️⃣ Update Connection String
+```bash
 Edit appsettings.json:
 
-json
-Copy code
 "ConnectionStrings": {
   "DefaultConnection": "Server=.;Database=ECommerceDB;Trusted_Connection=True;TrustServerCertificate=True;"
 }
-3️⃣ Run the API
-bash
-Copy code
+```
+
+### 3️⃣ Run the API
+```bash
 dotnet run
-API will run on:
+```
 
-https://localhost:7001
-
-http://localhost:5001
-
-🔥 API Endpoints (Overview)
-Auth Endpoints
-Method	Endpoint	Description
-POST	/api/auth/register	Register new user
-POST	/api/auth/login	Login & receive tokens
-POST	/api/auth/refresh	Refresh access token
-
-Category Endpoints
-Method	Endpoint	Description
-GET	/api/categories	Get all categories
-POST	/api/categories	Create category
-PUT	/api/categories/{id}	Update category
-DELETE	/api/categories/{id}	Delete category
-
-Product Endpoints
-Method	Endpoint	Description
-GET	/api/products	Get all products
-GET	/api/products/{id}	Get product by ID
-POST	/api/products	Create product
-PUT	/api/products/{id}	Update product
-DELETE	/api/products/{id}	Delete product
-
-Cart & Orders
-Method	Endpoint	Description
-GET	/api/cart	Get user cart
-POST	/api/cart/add	Add item to cart
-POST	/api/cart/remove	Remove item from cart
-POST	/api/orders	Create order
-GET	/api/orders/my	Get logged-in user's orders
-
+🔥 API Endpoints (soon)
