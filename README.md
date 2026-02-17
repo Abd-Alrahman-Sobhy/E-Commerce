@@ -229,12 +229,6 @@ This project is a **single ASP.NET Core API** organized into feature-focused fol
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 <div align="center">
 
 Made with ❤️ by [Abd-Alrahman Sobhy](https://github.com/Abd-Alrahman-Sobhy)
