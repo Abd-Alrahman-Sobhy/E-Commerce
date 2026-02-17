@@ -24,8 +24,6 @@ A clean, modular, and production-ready **E-Commerce REST API** built with **ASP.
 - [Configuration](#-configuration)
 - [API Endpoints](#-api-endpoints)
 - [Architecture](#-architecture)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
